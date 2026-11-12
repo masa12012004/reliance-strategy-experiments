@@ -1,0 +1,11 @@
+# Inferred direct dependencies; no clean installation or version lock verified.
+breeze-connect
+lightgbm
+matplotlib
+numpy
+pandas
+pyarrow
+python-dotenv
+scikit-learn
+scipy
+tzdata
